@@ -48,7 +48,7 @@ export function SiteHeader() {
                          hover:bg-lime-300 hover:shadow-md hover:scale-[1.02]
                          transition-all flex items-center gap-2"
             >
-              <Link href="https://wa.me/447877417446" target="_blank" rel="noopener noreferrer">
+              <Link href="https://wa.me/message/A5EQDRKUMNLIF1" target="_blank" rel="noopener noreferrer">
                 <MessageCircle className="h-4 w-4" />
                 Message Me Now
               </Link>
@@ -105,7 +105,7 @@ export function SiteHeader() {
                                hover:bg-lime-300 hover:shadow-md hover:scale-[1.02]
                                transition-all flex items-center justify-center gap-2"
                   >
-                    <Link href="https://wa.me/447877417446" target="_blank" rel="noopener noreferrer">
+                    <Link href="https://wa.me/message/A5EQDRKUMNLIF1" target="_blank" rel="noopener noreferrer">
                       <MessageCircle className="h-4 w-4" />
                       WhatsApp Me
                     </Link>

@@ -80,7 +80,7 @@ export function Pricing() {
               className="rounded-full px-5 text-neutral-900 hover:brightness-95"
               style={{ backgroundColor: "#f2f2f2" }}
             >
-              <Link href="https://wa.me/447877417446" target="_blank">
+              <Link href="https://wa.me/message/A5EQDRKUMNLIF1" target="_blank">
                 Get Started Now
               </Link>
             </Button>
@@ -113,7 +113,7 @@ export function Pricing() {
                   className="flex-1 rounded-full px-4 py-3 text-lg font-medium text-black shadow transition-[box-shadow,transform,filter] active:translate-y-[1px]"
                   style={{ backgroundColor: ACCENT }}
                 >
-                  <Link href="https://wa.me/447877417446">Get Started</Link>
+                  <Link href="https://wa.me/message/A5EQDRKUMNLIF1">Get Started</Link>
                 </Button>
               </div>
             </CardHeader>

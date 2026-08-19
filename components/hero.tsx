@@ -9,7 +9,7 @@ export function Hero() {
       asChild
       className="rounded-full bg-lime-400 px-8 py-3 text-black hover:bg-lime-300 flex items-center gap-2 font-semibold text-lg shadow-lg hover:shadow-xl transition-all"
     >
-      <a href="https://wa.me/447877417446" target="_blank" rel="noopener noreferrer">
+      <a href="https://wa.me/message/A5EQDRKUMNLIF1" target="_blank" rel="noopener noreferrer">
         <MessageCircle className="h-5 w-5" />
         Start Your 3D Project Today
       </a>

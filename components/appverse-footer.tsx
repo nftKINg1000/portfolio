@@ -45,7 +45,7 @@ export function AppverseFooter() {
             asChild
             className="rounded-full bg-lime-400 px-8 py-3 text-sm font-semibold text-black shadow-[0_0_20px_rgba(163,230,53,0.35)] hover:bg-lime-300 flex items-center gap-2"
           >
-            <a href="https://wa.me/447877417446" target="_blank" rel="noopener noreferrer">
+            <a href="https://wa.me/message/A5EQDRKUMNLIF1" target="_blank" rel="noopener noreferrer">
               <MessageCircle className="h-4 w-4" />
               Start Your 3D Website Project
             </a>
@@ -125,7 +125,7 @@ export function AppverseFooter() {
                   size="sm"
                   className="border-lime-400/30 text-lime-300 hover:bg-lime-400/10 flex items-center gap-2 bg-transparent"
                 >
-                  <a href="https://wa.me/447877417446" target="_blank" rel="noopener noreferrer">
+                  <a href="https://wa.me/message/A5EQDRKUMNLIF1" target="_blank" rel="noopener noreferrer">
                     <MessageCircle className="h-4 w-4" />
                     WhatsApp: +44 787 741 7446
                   </a>
@@ -160,7 +160,7 @@ export function AppverseFooter() {
                   <li className="flex items-center gap-2">
                     <MessageCircle className="h-4 w-4 text-lime-400" />
                     <a
-                      href="https://wa.me/447877417446"
+                      href="https://wa.me/message/A5EQDRKUMNLIF1"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="hover:text-lime-300 font-medium"
