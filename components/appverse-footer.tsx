@@ -127,7 +127,7 @@ export function AppverseFooter() {
                 >
                   <a href="https://wa.me/message/A5EQDRKUMNLIF1" target="_blank" rel="noopener noreferrer">
                     <MessageCircle className="h-4 w-4" />
-                    WhatsApp: +44 787 741 7446
+                    WhatsApp: +447446362137
                   </a>
                 </Button>
               </div>
