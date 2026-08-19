@@ -11,7 +11,7 @@ export function WhatsAppFloat() {
         className="w-14 h-14 rounded-full bg-[#25D366] hover:bg-[#20BA5A] shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-110"
       >
         <a
-          href="https://wa.me/447877417446"
+          href="https://wa.me/message/A5EQDRKUMNLIF1"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Contact via WhatsApp"

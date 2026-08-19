@@ -46,7 +46,7 @@ export default function Page() {
       name: "Emmanuel O. King",
       url: "https://emmanueloking.com",
       sameAs: [
-        "https://wa.me/447877417446",
+        "https://wa.me/message/A5EQDRKUMNLIF1",
         "https://twitter.com/emmanueloking",
         "https://www.youtube.com/@emmanueloking",
         "https://instagram.com/emmanueloking",
